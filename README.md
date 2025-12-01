@@ -1,2 +1,2 @@
-# stanleyangkasa.github.io
+# Stanley's Blog
 Personal blog landing page
